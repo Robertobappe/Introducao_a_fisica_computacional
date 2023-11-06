@@ -6,3 +6,4 @@ Exemplos e exercícios da disciplina 7600017
 # Salvando modificações no git
 
 ## Salvando alterações no Git
+* comando gut push
